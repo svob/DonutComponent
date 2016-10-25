@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Donut">
+        <attr name="valueColor" format="color" />
+        <attr name="borderColor" format="color" />
+        <attr name="indicatorColor" format="color" />
+        <attr name="animationSpeed" format="float" />
+        <attr name="startAngle" format="float" />
+        <attr name="borderWidth" format="float" />
+    </declare-styleable>
+</resources>
